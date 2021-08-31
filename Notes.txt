@@ -1,0 +1,50 @@
+ProgramName Command - is flag
+
+git init    <-initializes a git repo
+git clone   <-to copy existing copy
+git add 
+	git add. 
+	git add -a
+	git add index.html pic.jpeg     adds both files
+git commit
+	git commit -m "added to home page" 
+		commit adds check point
+			m is message followed by "" for messasge
+	git vim		tricky one
+git diff 
+	diff gets differences
+git log
+	log - is list of all commits
+get status
+	status - list of files that have been modified
+   stash - stores changes but doesnt commit it.
+
+CD - directory
+	cd ..	-goes back 
+	cd 	-opens  directory
+mkdir "folder name" -makes folder
+
+pwd  -list address
+
+cat filename
+	cat -opens file 
+
+touch index.html
+	creates file
+rm -rf
+	rm -means remove
+	rf -removes file
+cp sun.html moon.html
+	cp -means copy
+mv sun.html day6
+	mv -means move
+		mv then followed by file/folder into location
+code .
+	code . -opens visual studios in folder
+	code .. -opens in sub folder?
+
+push to github
+git push 
+	push -uploadeds changes.
+
+
