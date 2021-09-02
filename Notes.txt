@@ -48,3 +48,14 @@ git push
 	push -uploadeds changes.
 
 
+*Add to git up with following steps
+	create branch? maybe later
+	This moves it to the staging point
+		git add filename
+			for specific directory or file
+		git add .
+			git add .: Stage all files (that are not listed in the .gitignore) in the entire repository
+		git add -p: Interactively stage hunks of changes
+
+	git commit -m "message"
+		Commit the changes: git commit -m "update the README to include links to contributing guide"	
